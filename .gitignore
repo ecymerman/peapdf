@@ -1,0 +1,15 @@
+#global folders
+bin/
+obj/
+.vs/
+
+#global files
+*.user
+*.pubxml
+gi-*
+*.filters
+
+#specific folders
+
+#specific files
+/PeaPdf/notes.txt
